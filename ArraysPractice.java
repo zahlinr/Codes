@@ -1,6 +1,6 @@
 /**
  *
- * @author Lynes
+ * @author Zahlin
  */
 
 import java.util.Scanner;
