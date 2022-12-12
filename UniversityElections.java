@@ -71,7 +71,7 @@ public class UniversityElections { //start UniversityElections class
         
         return nTotal; //returning the calculated total to the main method
         
-    } //end total votes calculation method
+    } //end total votes calculation method 
     
     
 } //end UniversityElections class
